@@ -1,4 +1,3 @@
-﻿#Delete existing pins
 $passportFolder = "C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\Ngc"
 
 if(Test-Path -Path $passportFolder)
